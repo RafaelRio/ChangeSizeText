@@ -26,3 +26,8 @@ una clase intermedia Message.</br>
         binding.tvMessage.setText(message.getMessage());
         binding.tvMessage.setTextSize(message.getSize());
 ```
+
+-Capturas de pantalla de la aplicacion en funcionamiento
+            <a href="https://gyazo.com/e854b46a690eeadd33e9ea30c238b273">ChangeSizeTextActivity</a>
+            </br>
+            <a href="https://gyazo.com/61d0de3d4db8286b6fce441a9fdc6225">ViewMessageActivity</a>
